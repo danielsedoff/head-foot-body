@@ -1,0 +1,6 @@
+head-foot-body
+
+This is a very simple php page generator.
+It takes the header, footer and body from .txt files.
+The range of pages is specified as ints.
+
